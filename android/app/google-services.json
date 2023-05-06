@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "182406421247",
+    "firebase_url": "https://projetradio-898ec-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "projetradio-898ec",
+    "storage_bucket": "projetradio-898ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182406421247:android:21db20284ac1c82e2d8aca",
+        "android_client_info": {
+          "package_name": "com.example.projet_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182406421247-gom4vuhoeptjkvgtravto70n8jvtc6oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhPU8Zm8SluwyWk5IhMLbZr_l9bJNkvIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182406421247-gom4vuhoeptjkvgtravto70n8jvtc6oj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "182406421247-52m8u2400m4en8b6uq5jgj9qogpjbk4v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projetMobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182406421247:android:1a81db462c8007022d8aca",
+        "android_client_info": {
+          "package_name": "com.example.radios_stations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182406421247-gom4vuhoeptjkvgtravto70n8jvtc6oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhPU8Zm8SluwyWk5IhMLbZr_l9bJNkvIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182406421247-gom4vuhoeptjkvgtravto70n8jvtc6oj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "182406421247-52m8u2400m4en8b6uq5jgj9qogpjbk4v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projetMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

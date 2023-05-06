@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>562481393831-1seootqjfnpekis6sliv9gsvdvnak8h5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.562481393831-1seootqjfnpekis6sliv9gsvdvnak8h5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDB4GTDFGCyDcu2UiJJrNGkfpDV8wHPBuE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>562481393831</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.projetMobile</string>
+	<key>PROJECT_ID</key>
+	<string>appliradio-961de</string>
+	<key>STORAGE_BUCKET</key>
+	<string>appliradio-961de.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:562481393831:ios:667f1c8edbc0c0a0bdab82</string>
+	<key>DATABASE_URL</key>
+	<string>https://appliradio-961de-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
